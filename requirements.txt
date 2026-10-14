@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+requests
+qdrant-client
+langchain-text-splitters
+networkx
+scikit-learn
+pydantic
+python-multipart
+pypdf
